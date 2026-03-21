@@ -38,3 +38,6 @@ Build a centralized data warehouse that consolidates sales-related data from mul
 Generate SQL-based insights that help stakeholders understand:
 
 - Customer behavior
+
+### Project Detailed Tasks (Notion)
+https://www.notion.so/SQL-Data-Warehouse-Project-329e9ad32e5780aa9e36ec963f2737b2
