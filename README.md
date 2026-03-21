@@ -18,8 +18,7 @@ The solution includes:
 
 The project follows the **Medallion Architecture** approach with three logical layers:
 
-<img width="1544" height="912" alt="image" src="https://github.com/user-attachments/assets/a9fe03dd-c826-4de9-abf6-b72f5f4d1fc9" />
-
+<img width="850" height="517" alt="data_architecture" src="https://github.com/user-attachments/assets/ace3d0c5-864b-407c-976f-fe0c1ad551de" />
 
 ### Bronze Layer
 Stores raw data ingested directly from source systems into SQL Server without modification.
